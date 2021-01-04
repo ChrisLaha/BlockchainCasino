@@ -5,3 +5,4 @@
 - A number is randomly generated using python.
 - The closest guess to the number wins the pot.
 - The smart contract deposits the full amount of the contract to the winning address.
+  
