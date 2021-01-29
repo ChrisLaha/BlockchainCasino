@@ -1,3 +1,5 @@
+![blockchain](https://user-images.githubusercontent.com/65509367/106337717-22294300-624f-11eb-8a0f-adf86d96572a.jpeg)
+
 # BlockchainCasino
 - Number guessing game that utilizes the Ethereum blockchain.
 - Each participant enters their ETH address and enters a number 1-100 as a guess.
